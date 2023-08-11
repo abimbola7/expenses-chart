@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL](https://github.com/abimbola7/expenses-chart)
+- Live Site URL: [Expenses Chart](https://abimbola7.github.io/expenses-chart/)
 
 ## My process
 
@@ -52,5 +52,3 @@ Users should be able to:
 
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/abimbola7)
 - Twitter - [@yourusername](https://www.twitter.com/@_jidex)
-
-**Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
